@@ -3,6 +3,9 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+# Maximum amount of previews per search result
+# Default: 3
+search.previews: 3
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
