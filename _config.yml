@@ -1,9 +1,16 @@
-title: Just the Docs Template
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+has_toc: false
+---
+
+title: ReOps Site
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-has_children: true
+url: https://aayatsali.github.io/reops3/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
