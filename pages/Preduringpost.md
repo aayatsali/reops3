@@ -1,5 +1,5 @@
 ---
-title: Knowledge management
+title: Pre, During, and Post Research Processes 
 layout: home
 ---
 
