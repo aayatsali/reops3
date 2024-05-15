@@ -2,7 +2,8 @@
 title: What is UX, CX, & Service Design
 layout: home
 parent: Advocacy
-nav-order: 1
+nav_order: 1
+has_toc: false
 ---
 
 # What is UX
