@@ -1,16 +1,6 @@
 ---
 title: Advocacy
 layout: home
-nav-order: 5
-+-- ..
-|-- (Jekyll files)
-|
-|-- reops3
-|   |-- pages
-|   |   |-- advocacy.md  (parent page)
-|   |   |-- whatisux.md
-|
-|-- (Jekyll files)
 ---
 
 # Advocacy 
