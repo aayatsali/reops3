@@ -1,3 +1,8 @@
+---
+title: Capacity Building
+layout: home
+---
+
 # Capacity building 
 _Explainer: Onboarding, education, and training around research_ 
 * Communities of practice list 
