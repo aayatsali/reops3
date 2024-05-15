@@ -1,6 +1,8 @@
 ---
 title: Advocacy
 layout: home
+nav-order: 7
+has-children: true
 ---
 
 # Advocacy 
