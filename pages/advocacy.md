@@ -2,7 +2,6 @@
 title: Advocacy
 layout: home
 nav-order: 5
-has-children: true
 +-- ..
 |-- (Jekyll files)
 |
