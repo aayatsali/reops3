@@ -10,3 +10,6 @@ _Explainer: Onboarding, education, and training around research_
 * Communities of practice list 
 * Reading and resources list for UXR 
 * Trainings on sharpening UX skills 
+
+## Suggestions for Improvements
+[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
