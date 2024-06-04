@@ -15,3 +15,6 @@ _Explainer: Recruitment, screening, scheduling, compensation and panel managemen
 Assets from DOL
 - [Informed Consent.docx](https://github.com/cfpb/Interagency-Research-Ops/files/15225233/Informed.Consent.docx)
 - [Justification for incentives v2.docx](https://github.com/cfpb/Interagency-Research-Ops/files/15225232/Justification.for.incentives.v2.docx)
+
+## Suggestions for Improvements
+[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
