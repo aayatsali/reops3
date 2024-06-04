@@ -9,7 +9,7 @@ has_toc: false
 # Pre, during, post research process 
 _Explainer: Cross linking to materials in guide and breaking the research process into phases_
 
-## Overarching Guidance for all stages of research 
+## Overarching guidance for all stages of research 
 - [Veterns Adminsitration Research documentation.](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va) So much good information that cuts across research topics like recruiting, data analytics, conversations guide templates, synthesizing, and sharing findings with stakeholders
 - [USDS Discovery Sprint Guide](https://sprint.usds.gov/)
 - [Digital Services Playbook](https://playbook.cio.gov)
