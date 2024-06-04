@@ -26,7 +26,8 @@ _Explainer: Cross linking to materials in guide and breaking the research proces
 - [VA Research Template](https://github.com/aayatsali/reops3/blob/main/VA%20Research%20Template.docx)
 
 ## Post 
-- How the VA is using AI in Research:
+
+## How the VA is using AI in Research
 
 PII/PHI if any is recorded during research sessions, gets scrubbed out by researcher during beginning of synthesis and analysis, and before any notes or transcripts can be uploaded to a cloud storage system like Github or EnjoyHQ. Therefore, when a research findings report is created, it should not contain any PII/PHI. This is why we chose to use the reports as the foundation to craft stories using AI.
 
