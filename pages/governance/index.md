@@ -13,3 +13,6 @@ _Explainer: Process and guidelines for managing consent, privacy and storage of 
 
 
 Assets from CFPB
+
+## Suggestions for Improvements
+[File a ticket here](https://github.com/aayatsali/reops3/issues/new?assignees=aayatsali&labels=enhancement%2C+new&projects=&template=suggestions-for-reops-site.md&title=) 
